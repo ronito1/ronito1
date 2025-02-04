@@ -1,6 +1,10 @@
 # 💫 About Me:
 ### 👋 Hi there! I'm Ronit Pathak<br><br>- 🌱 **I’m currently working on**: <br>  - A **PDF Q&A Application** leveraging machine learning models to allow users to interact with PDF documents and ask questions related to their content. This project integrates my skills in full-stack development and cloud computing.<br><br>- 🤝 **I’m looking to collaborate on**: <br>  - Open-source projects involving **AI integration**, particularly those focused on natural language processing and document analysis. I'm particularly interested in projects that utilize **FastAPI** or **React.js**.<br><br>- 🆘 **I’m looking for help with**: <br>  - Enhancements in **data structures and algorithms** to improve performance aspects of my current projects. I would appreciate any guidance or resources on optimizing machine learning models.<br><br>- 👨‍🎓 **I’m currently learning**: <br>  - Advanced topics in **Machine Learning**, particularly implementations with libraries like **TensorFlow** and **PyTorch**. I’m also diving deeper into cloud technologies and their applications in deploying scalable applications.<br><br>- 💬 **Ask me about**: <br>  - Full-stack development, particularly using **MERN** stack technologies (MongoDB, Express.js, React.js, Node.js). I also enjoy discussing topics related to **AI and Machine Learning** as well as cloud computing solutions.<br><br>- ⚡ **Fun fact**: <br>  - I'm a **theater enthusiast** and have participated in various performances, enhancing my public speaking and teamwork skills. I also love folklore dancing and have won a regional competition!<br>
 
+# Other GitHub id's: {One for the experiments one for the fun}
+https://github.com/Ronitp01
+https://github.com/ronitpathak0010
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ronit_o.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronitpathak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronitpathak12345@gmail.com) 
